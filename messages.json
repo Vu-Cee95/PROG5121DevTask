@@ -1,0 +1,30 @@
+[
+    {
+        "recipient": "+27849812355",
+        "id": "1749510127",
+        "message": "hey",
+        "hash": "17:0:HEYHEY",
+        "timestamp": "2025-05-04T23:52:07.2004224"
+    },
+    {
+        "recipient": "+27849812355",
+        "id": "1438106239",
+        "message": "hey how are you doing",
+        "hash": "14:0:HEYDOING",
+        "timestamp": "2025-05-18T14:30:29.9093117"
+    },
+    {
+        "recipient": "+27849812355",
+        "id": "1316832175",
+        "message": "hey momah",
+        "hash": "13:0:HEYMOMAH",
+        "timestamp": "2025-05-18T17:40:14.3792869"
+    },
+    {
+        "recipient": "+27849812355",
+        "id": "1896670525",
+        "message": "hey",
+        "hash": "18:0:HEYHEY",
+        "timestamp": "2025-05-25T14:09:19.1714167"
+    }
+]
