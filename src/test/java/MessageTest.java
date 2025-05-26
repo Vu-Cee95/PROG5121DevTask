@@ -46,6 +46,8 @@ public class MessageTest {
         assertEquals(true, msg.checkMessageID());
     }
 
+    //testing code
+
     @Test
     public void testSendMessageOption() {
         String result = "Message successfully sent.";
