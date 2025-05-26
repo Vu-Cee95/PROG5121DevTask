@@ -9,7 +9,7 @@ public class userDetailsTest {
     public void testCheckUsername_valid() {
         assertEquals(true, userDetails.checkUsername("kyl_1"), "Expected valid username 'kyl_1' to return true");
     }
-
+//testing the user d etails
     @Test
     public void testCheckUsername_invalid_length() {
         assertEquals(false, userDetails.checkUsername("kyle11"), "Username longer than 5 characters should return false");
