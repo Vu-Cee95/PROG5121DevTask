@@ -12,7 +12,7 @@ import java.util.Random;
 import javax.swing.JOptionPane;
 import org.json.JSONArray;
 import org.json.JSONObject;
-
+//messaging methods
 public class MessageInfo {
     private static final String MESSAGE_FILE = "messages.json";
     private static final List<MessageInfo> messages = new ArrayList<>();
