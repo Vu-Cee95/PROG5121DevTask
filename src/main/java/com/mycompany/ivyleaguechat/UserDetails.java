@@ -1,4 +1,4 @@
-
+//part 1 of the poe
 package com.mycompany.ivyleaguechat;
 
 import java.util.Scanner;
